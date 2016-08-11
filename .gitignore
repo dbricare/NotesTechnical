@@ -1,0 +1,6 @@
+# ipynb checkpoints
+.ipynb_checkpoints/
+
+# Mac OSX files
+*.pages
+*.key
